@@ -3,7 +3,6 @@ I'm a current M.S. in Data Science student at the University of Virginia School 
 
 - 🌱 I’m currently learning:
     - Coursework: Statistical Learning, Bayesian ML, Big Data Ethics, Computer Science
-    - Azure Data Scientist certification
     - AWS Data Engineer certification
     - Creating generative AI-based applications leveraging OpenAI models
       
