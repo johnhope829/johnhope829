@@ -8,7 +8,7 @@ I'm a current M.S. in Data Science student at the University of Virginia School 
 - 🎧 What I'm working on:
     - Capstone Project: Comparative analysis of LLM evaluation frameworks, with a focus on LLM-as-a-judge vs. NLP metrics
     - MarketMind: A marketing AI agent app, backed by a text-to-SQL architecture, providing on-demand analytics and strategy
-    - Multimodal Playlist Generation: Using deep learning, combining mood, biometrics, and activity to generate personalized playlists
+    - Multimodal Playlist Generation: Using deep learning, combining mood, biometrics and activity to generate personalized playlists
       
 - 📫 How to reach me:
     - [LinkedIn](https://www.linkedin.com/in/john-hope-22903/)
