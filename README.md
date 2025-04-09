@@ -3,7 +3,7 @@ I'm a current M.S. in Data Science student at the University of Virginia School 
 
 - 🌱 I’m currently learning:
     - Coursework: Deep Learning, Decoding LLMs, Big Data Processing, Text Analytics
-    - Creating advanced analytic and generative AI-based applications
+    - Creating advanced analytics and generative AI applications
       
 - 📫 How to reach me:
     - [LinkedIn](https://www.linkedin.com/in/john-hope-22903/)
