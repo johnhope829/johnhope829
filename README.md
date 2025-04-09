@@ -1,5 +1,5 @@
 ## Hi, I’m John Hope!
-I'm a current M.S. in Data Science student at the University of Virginia School of Data Science, with a professional background in data analytics and engineering!
+I'm a current M.S. in Data Science student at the University of Virginia School of Data Science, with a professional background in data science, analytics and engineering!
 
 - 🌱 I’m currently learning:
     - Coursework: Deep Learning, Decoding LLMs, Big Data Processing, Text Analytics
